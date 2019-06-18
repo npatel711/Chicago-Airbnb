@@ -1,2 +1,2 @@
 # Chicago-Airbnb
-![chicago image](images/chicago_by_night_display.jpg)
+![chicago_by_night_display](images/chicago_by_night_display.jpg)
