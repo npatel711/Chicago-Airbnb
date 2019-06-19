@@ -8,3 +8,7 @@ Summary:
   
 ![chicago_by_night_display](images/chicago_by_night_display.png)
 
+Data Overview:
+---
+ * The data in this project is filtered exclusively for the city of Chicago and spans acorss 10 years
+ * It spans across the entire metropolitan area and contains information related to property types, host ratings, and accomodations. 
