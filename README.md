@@ -20,3 +20,13 @@ Data Overview:
  ---
  
  ![image](images/image.png)
+
+Methodoly Overview:
+---
+ * Python flask powered by HTML/ CSS and Java Script, leveraging data housed in a My SQL Database
+ * Developed a D3 Visualization
+ * A Dashboard page with multiple charts that updates from the same data source
+ * A JS library that we did not cover
+ * The data set is well over 100 records
+ * User-driven interactions
+ * Over three views
