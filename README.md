@@ -12,3 +12,8 @@ Data Overview:
 ---
  * The data in this project is filtered exclusively for the city of Chicago and spans acorss 10 years
  * It spans across the entire metropolitan area and contains information related to property types, host ratings, and accomodations. 
+ * We've analyzed, among other things, the highest ranking neighborhoods in the city, host ratings, property information, and guest centiment
+ * The data is interactive and can be found on our group's web dashboards
+ * Additionally, we've ploted our data across a map of Chicago to display information about the Airbnb offerings acorss the city: 
+ 
+ 
