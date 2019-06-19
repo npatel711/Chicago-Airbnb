@@ -6,6 +6,8 @@ Summary:
   * Methodoly: a dashboard page with multiple charts that update from the same dataset 
   * Technology: Python flask powered by HTML/ CSS and Java Script, leveraging data housed in a My SQL Database
   
+  Link:  https://polinazasheva.github.io/airbnb-analysis/
+  
 ![chicago_by_night_display](images/chicago_by_night_display.png)
 
 Data Overview:
