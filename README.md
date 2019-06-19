@@ -16,6 +16,4 @@ Data Overview:
  * The data is interactive and can be found on our group's web dashboards
  * Additionally, we've ploted our data across a map of Chicago to display information about the Airbnb offerings acorss the city: 
  
- ![Cancellation_Policy](images/Cancellation_Policy.png)
- 
- 
+ ![image](images/image.png)
