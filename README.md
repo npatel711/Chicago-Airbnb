@@ -16,4 +16,7 @@ Data Overview:
  * The data is interactive and can be found on our group's web dashboards
  * Additionally, we've ploted our data across a map of Chicago to display information about the Airbnb offerings acorss the city: 
  
+ Airbnb Map of Chicago
+ ---
+ 
  ![image](images/image.png)
