@@ -7,3 +7,4 @@ Summary:
   * Technology: Python flask powered by HTML/ CSS and Java Script, leveraging data housed in a My SQL Database
   
 ![chicago_by_night_display](images/chicago_by_night_display.png)
+
