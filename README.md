@@ -1,4 +1,4 @@
-# Chicago-Airbnb: Data Exploration of City Airbnb Availability and Ratings
+# Chicago-Airbnb: Data Exploration of Airbnb Availability and Ratings
 
 Summary:
 ---
